@@ -1,4 +1,3 @@
-#this is a code of to_do list programme
 task_list = []
 def to_do():
     class task:
