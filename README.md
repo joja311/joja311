@@ -22,12 +22,10 @@ Make sure you have Python installed. Run the following command in your terminal 
 ```bash
 python task_manager.py
 
-Contributing
+**## Contributing**
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
-License
 
-This project is licensed under the  GNU Lesser General Public License v2.1 - see the LICENSE file for details.
-Acknowledgments
+**## Acknowledgments**
 
     Thanks to Mohamed Amine Lansari for contributing to the project.
