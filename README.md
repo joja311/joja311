@@ -21,11 +21,3 @@ Make sure you have Python installed. Run the following command in your terminal 
 
 ```bash
 python task_manager.py
-
-**## Contributing**
-
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-**## Acknowledgments**
-
-    Thanks to Mohamed Amine Lansari for contributing to the project.
