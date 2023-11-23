@@ -1,23 +1,29 @@
 # Task Manager
 
-Task Manager is a console-based application that allows users to create and manage their tasks. It supports both one-time tasks and periodic tasks with specified intervals.
+Task Manager is a Python console application that allows users to manage tasks effectively. It provides basic task creation, completion, and viewing features.
 
 ## Features
 
-- Create one-time tasks with a name, type, and start time.
-- Add periodic tasks with a name, type, start time, and a specified period.
-- View a menu displaying the list of tasks with their details.
-- Add new tasks interactively from the menu.
-- Remove completed tasks from the menu.
+- Create tasks with a name, type, and start time.
+- Add periodic tasks with a specified period.
+- Mark tasks as completed.
+- View the list of completed tasks.
 
 ## Usage
 
-1. Run the program.
-2. Follow the on-screen instructions to create tasks or mark them as completed.
+1. Run the script: `python task_manager.py`.
+2. Follow the on-screen instructions to interact with the task manager.
 
-## How to Run
+## How to Contribute
 
-Make sure you have Python installed. Run the following command in your terminal or command prompt:
+If you want to contribute to this project, follow these steps:
 
-```bash
-python task_manager.py
+1. Fork the repository.
+2. Clone the forked repository: `git clone https://github.com/joja311/joja311.git`.
+3. Make changes and commit: `git commit -m "Your changes"`.
+4. Push to your fork: `git push origin master`.
+5. Create a pull request.
+
+## Acknowledgments
+
+- Thanks to the Python community for valuable resources and inspiration.
