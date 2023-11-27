@@ -14,7 +14,7 @@ Explore my repositories to find a variety of projects, ranging from Python scrip
 
 Connect with me on social media and let's share our coding journeys:
 
-- [LinkedIn](www.linkedin.com/in/mohamed-amine-lansari-4239752a0)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-lansari-4239752a0)
 - [Twitter](https://twitter.com/MLansari22966)
 
 ## 🌟 Check out my Work
